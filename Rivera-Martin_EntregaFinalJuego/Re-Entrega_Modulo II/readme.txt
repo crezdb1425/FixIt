@@ -1,0 +1,3 @@
+-Se agregó la ventana configuración.
+-Se cambío el ControladorRanking y se utilizó un ArrayList para guardar los 5 mejores, pero no pudimos solucionar el error de serializacion.
+-Se agregaron las constantes en las clases FelixJr, Juego, Ladrillo, Nicelander, Pajaro y Pastel.
